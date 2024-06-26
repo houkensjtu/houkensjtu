@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @houkensjtu
-- 👀 I’m interested in Numerical simulation, CFD, and high performance computing
-- 🌱 I’m currently learning CUDA and C++
-- 💞️ I’m looking to collaborate on fluid simulation projects
+- 👀 I’m interested in numerical simulations and high performance computing
+- 🌱 I’m currently learning Julia and CUDA
+- :ocean: I'm maintaining a collection of open source fluid simulation [projects](https://github.com/houkensjtu/taichi-fluid) written in Taichi
+- :keyboard: I'm a stubborn Emacs user with little knowledge of Lisp
 
 <!---
 houkensjtu/houkensjtu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
